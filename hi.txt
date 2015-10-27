@@ -1,4 +1,4 @@
-print("Hi")
-print("Terminator")
-print("Machine")
-print("Hi Machine")
+print("Hi;")
+print("Terminator;")
+print("Machine;")
+print("Hi Machine;")
