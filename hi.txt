@@ -1,3 +1,4 @@
 print("Hi")
 print("Terminator")
 print("Machine")
+print("Hi Machine")
